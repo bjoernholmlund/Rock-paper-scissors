@@ -1,2 +1,3 @@
-# quiz-game
-A quiz game
+# Rock - Paper - Scissors
+A rock paper scissors game
+
